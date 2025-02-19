@@ -1,1 +1,1 @@
-# seoul-weather
+# seoul_weather
